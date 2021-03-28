@@ -1,0 +1,50 @@
+/* .itemName {
+  color: #1161f0f5;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.tkOne {
+  font-family: sans-serif;
+  font-weight: 600;
+  color: black;
+}
+.tkTwo {
+  font-family: sans-serif;
+  font-weight: 400;
+  text-decoration: line-through;
+  color: crimson;
+} */
+.headerOne {
+  font-family: serif;
+  font-weight: 800;
+  font-size: 21px;
+}
+
+.allProduct {
+  padding: 20px 0;
+}
+
+.modalContainer {
+  background: aqua;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin-left: -1%;
+}
+
+.customModal {
+  background: beige;
+  position: absolute;
+  height: 200px;
+  width: 400px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: top 2s;
+}
+.positionOne {
+  top: 0;
+}
+.positionTwo {
+  top: 50%;
+}
